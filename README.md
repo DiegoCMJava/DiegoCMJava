@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Bienvenidos a este repositorio.  
 ```javaScript
     function bienvenida() {
-      alert("¡Bienvenidos a este Repositorio");
+      alert("¡Bienvenidos a este Repositorio!");
     };
     bienvenida();
 ```
