@@ -26,4 +26,4 @@ Bienvenidos a este repositorio.
 ### Programación
 ***HTMl, CSS, JavaScript, React, Git***  
 ### Series
-***Star Trek***
+***Star Trek*** 🖖
