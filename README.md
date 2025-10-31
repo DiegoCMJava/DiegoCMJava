@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Saludos, espero recibir sus comentarios o sugerencias sobro como mejorar en este campo de la programación.
+Saludos, espero recibir sus comentarios o sugerencias sobre como mejorar en este campo de la programación.
 Bienvenidos a este repositorio.
 ## Intéreses
 ### Programación
