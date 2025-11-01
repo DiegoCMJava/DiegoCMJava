@@ -22,7 +22,7 @@ Bienvenidos a este repositorio.
     };
     bienvenida();
 ```
-## Intéreses
+## Intereses
 ### Programación
 ***HTMl, CSS, JavaScript, React, Git, Bootstrap, W3.CSS, Database, npm, Node.js, Inroducción a la Programación***  
 ### Series
