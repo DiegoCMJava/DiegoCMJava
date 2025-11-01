@@ -24,6 +24,6 @@ Bienvenidos a este repositorio.
 ```
 ## Intéreses
 ### Programación
-***HTMl, CSS, JavaScript, React, Git***  
+***HTMl, CSS, JavaScript, React, Git, Bootstrap, W3.CSS, Database, npm, Node.js, Inroducción a la Programación***  
 ### Series
 ***Star Trek*** 🖖
