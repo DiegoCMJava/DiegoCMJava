@@ -24,7 +24,7 @@ Bienvenidos a este repositorio.
 ```
 ## Intereses
 ### Programación
-***HTMl, CSS, JavaScript, React, Git, Bootstrap, W3.CSS, Database, npm, Node.js, Inroducción a la Programación***   
+***HTMl, CSS, JavaScript, React, Git, Bootstrap, W3.CSS, Database, npm, Node.js, Inroducción a la Programación, POSTGRESQL***   
 #### Mis fuentes más consultadas  
 🐶[Jonathan MirCha](https://jonmircha.com/)  📝:[W3Schools](https://www.w3schools.com/)
 ### Series
