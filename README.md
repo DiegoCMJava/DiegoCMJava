@@ -28,4 +28,4 @@ Bienvenidos a este repositorio.
 #### Mis fuentes más consultadas  
 🐶[Jonathan MirCha](https://jonmircha.com/)  📝:[W3Schools](https://www.w3schools.com/)
 ### Series
-***Star Trek*** 🖖
+***Star Trek*** 🖖  ***JoJo's Bizarre Adventure (anime)*** 💃
