@@ -26,7 +26,7 @@ Bienvenidos a este repositorio.
 [Aviario](https://diegocmjava.github.io/aviario/)
 ## Intereses
 ### Programación
-***HTMl, CSS, JavaScript, React, Git, Bootstrap, W3.CSS, Database, npm, Node.js, Introducción a la Programación, POSTGRESQL***   
+***HTMl, CSS, JavaScript, React, Git, Bootstrap, W3.CSS, Database, npm, Node.js, Introducción a la Programación, POSTGRESQL, Angular***   
 #### Mis fuentes más consultadas  
 🐶[Jonathan MirCha](https://jonmircha.com/)  📝:[W3Schools](https://www.w3schools.com/)
 ### Series
