@@ -30,4 +30,4 @@ Bienvenidos a este repositorio.
 #### Mis fuentes más consultadas  
 🐶[Jonathan MirCha](https://jonmircha.com/)  📝:[W3Schools](https://www.w3schools.com/)
 ### Series
-***Star Trek*** 🖖  ***JoJo's Bizarre Adventure (anime)*** 💃 ***Yu-Gi-Oh!*** 👁️
+***Star Trek*** 🖖  ***JoJo's Bizarre Adventure (anime)*** 💃 ***Yu-Gi-Oh!*** 👁️ ***Magical Do Re Mi*** 🧙 
