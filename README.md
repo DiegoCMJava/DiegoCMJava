@@ -24,7 +24,8 @@ Bienvenidos a este repositorio.
 ```
 ## Mis proyectos  
 [Aviario](https://diegocmjava.github.io/aviario/)  🐦‍⬛
-[Divulgadores Colombianos](https://diegocmjava.github.io/divulgadores-colombianos/) 📚
+[Divulgadores Colombianos](https://diegocmjava.github.io/divulgadores-colombianos/) 📚  
+## Proyectos en los que colaboro
 ## Intereses
 ### Programación
 ***HTMl, CSS, JavaScript, React, Git, Bootstrap, W3.CSS, Database, npm, Node.js, Introducción a la Programación, POSTGRESQL, Angular, Python***   
