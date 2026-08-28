@@ -34,6 +34,6 @@ Bienvenidos a este repositorio.
 ### Programación
 ***HTMl, CSS, JavaScript, React, Git, Bootstrap, W3.CSS, Database, npm, Node.js, Introducción a la Programación, POSTGRESQL, Angular, Python***   
 #### Mis fuentes más consultadas  
-🐶[Jonathan MirCha](https://jonmircha.com/)  📝:[W3Schools](https://www.w3schools.com/)
+🐶[Jonathan MirCha](https://jonmircha.com/)  📝:[W3Schools](https://www.w3schools.com/) 💻[Manz.Dev](https://manz.dev/)
 ### Series
 ***Star Trek*** 🖖  ***JoJo's Bizarre Adventure (anime)*** 💃 ***Yu-Gi-Oh!*** 👁️ ***Magical Do Re Mi*** 🧙  ***Smallville*** 🦸
