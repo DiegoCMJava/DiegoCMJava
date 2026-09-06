@@ -26,7 +26,8 @@ Bienvenidos a este repositorio.
 ```
 ## Mis proyectos  
 [Aviario](https://diegocmjava.github.io/aviario/)  🐦‍⬛
-[Divulgadores Colombianos](https://diegocmjava.github.io/divulgadores-colombianos/) 📚  
+[Divulgadores Colombianos](https://diegocmjava.github.io/divulgadores-colombianos/) 📚   
+[ProyectoCosmos](https://diegocmjava.github.io/proyecto-cosmos/) 🪐
 ## Proyectos en los que colaboro  
 [La Web del Profe Carlos](https://elprofecarlos13.github.io/webelprofecarlos/) 🖋️
 
