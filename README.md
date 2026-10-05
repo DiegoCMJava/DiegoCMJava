@@ -33,8 +33,8 @@ Bienvenidos a este repositorio.
 
 ## Intereses
 ### Programación
-***HTMl, CSS, JavaScript, React, Git, Tailwind, PhaserJS, SQL, NodeJS, ThreeJS, Database, npm, Node.js***   
+***HTMl, CSS, JavaScript, Typescript, Astro, SQL, React, Git, Tailwind, PhaserJS, SQL, NodeJS, ThreeJS, Database, npm, Node.js***   
 #### Mis fuentes más consultadas  
 🐶[Jonathan MirCha](https://jonmircha.com/)  📝:[W3Schools](https://www.w3schools.com/) 💻[Manz.Dev](https://manz.dev/)
 ### Series
-***Star Trek*** 🖖  ***JoJo's Bizarre Adventure (anime)*** 💃 ***Yu-Gi-Oh!*** 👁️ ***Magical Do Re Mi*** 🧙  ***Smallville*** 🦸
+***Star Trek*** 🖖  ***JoJo's Bizarre Adventure (anime y manga)*** 💃  ***Yu-Gi-Oh!*** 👁️ ***Magical Do Re Mi*** 🧙  ***Smallville*** 🦸
