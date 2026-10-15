@@ -33,7 +33,11 @@ Bienvenidos a este repositorio.
 
 ## Intereses
 ### Programación
-***HTMl, CSS, JavaScript, Typescript, Astro, SQL, React, Git, Tailwind, PhaserJS, SQL, NodeJS, ThreeJS, Database, npm, Node.js***   
+***CSS, Astro, SQL, React, Git, SQL, NodeJS, ThreeJS, Database, npm, Node.js*** 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=000)
+![Phaser](https://img.shields.io/badge/Phaser-v3-EE5535?logo=phaser&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-06B6D4?logo=tailwindcss&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-Canvas-E34F26?logo=html5&logoColor=fff)
 #### Mis fuentes más consultadas  
 🐶[Jonathan MirCha](https://jonmircha.com/)  📝:[W3Schools](https://www.w3schools.com/) 💻[Manz.Dev](https://manz.dev/)
 ### Series
